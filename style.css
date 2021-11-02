@@ -1,0 +1,37 @@
+.centrar {
+        display:block;
+        margin:auto;
+
+}
+
+.titulo{
+    background-color: #a9a9a9;
+    color:#005677;
+    border-radius: 5px;
+    padding-left: 16px;
+}
+
+.titulo-centrado {
+    text-align: center;
+}
+
+li>p, section>p {
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 23px;
+    display: inline;
+
+}
+ul[type="none"] {
+    padding-left: 0;
+}
+
+footer {
+    background-color: #005677;
+    color:#fff;
+    text-align: center;
+}
+
+footer>p {
+    margin: 0;
+}

@@ -1,0 +1,14 @@
+header{
+    background-position: center;
+    background :url(https://observatorio.tec.mx/edu-bits-blog/guia-para-crear-paisajes-de-aprendizaje-digitales) no-repeat center center scroll;
+	background-size:contain;
+    opacity: 0.6;
+}
+h1{
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    color:#005667
+}
+span{
+    font-weight: bold;
+}
